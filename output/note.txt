@@ -1,0 +1,1 @@
+Scraping output in csv format is stored in this folder
